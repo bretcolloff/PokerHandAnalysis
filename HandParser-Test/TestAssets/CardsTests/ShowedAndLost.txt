@@ -1,0 +1,41 @@
+﻿PokerStars Zoom Hand #79624146606:  Hold'em No Limit ($0.02/$0.05) - 2012/04/29 14:03:59 WET [2012/04/29 9:03:59 ET]
+Table 'Donati' 6-max
+Seat 1: BaronMcCool ($5 in chips) 
+Seat 2: bruceyang ($4.18 in chips) 
+Seat 3: Kolesia1970 ($10.68 in chips) 
+Seat 4: Str011i_83 ($6.52 in chips) 
+Seat 5: Zmeino ($8.38 in chips) 
+Seat 6: Siim154 ($5 in chips) 
+bruceyang: posts small blind $0.02
+Kolesia1970: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to BaronMcCool [Ad Tc]
+Str011i_83: folds 
+Zmeino: folds 
+Siim154: folds 
+BaronMcCool: raises $0.10 to $0.15
+bruceyang: folds 
+Kolesia1970: calls $0.10
+*** FLOP *** [5h 4c Js]
+Kolesia1970: checks 
+BaronMcCool: bets $0.15
+Kolesia1970: calls $0.15
+*** TURN *** [5h 4c Js] [6h]
+Kolesia1970: checks 
+BaronMcCool: checks 
+*** RIVER *** [5h 4c Js 6h] [Jc]
+Kolesia1970: bets $0.45
+BaronMcCool: calls $0.45
+*** SHOW DOWN ***
+Kolesia1970: shows [Ts 8s] (a pair of Jacks)
+BaronMcCool: shows [Ad Tc] (a pair of Jacks - Ace kicker)
+BaronMcCool collected $1.46 from pot
+*** SUMMARY ***
+Total pot $1.52 | Rake $0.06 
+Board [5h 4c Js 6h Jc]
+Seat 1: BaronMcCool showed [Ad Tc] and won ($1.46) with a pair of Jacks
+Seat 2: bruceyang (small blind) folded before Flop
+Seat 3: Kolesia1970 (big blind) showed [Ts 8s] and lost with a pair of Jacks
+Seat 4: Str011i_83 folded before Flop (didn't bet)
+Seat 5: Zmeino folded before Flop (didn't bet)
+Seat 6: Siim154 folded before Flop (didn't bet)

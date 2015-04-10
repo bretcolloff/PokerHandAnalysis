@@ -1,0 +1,28 @@
+﻿PokerStars Game #80709554910:  Hold'em No Limit ($0.02/$0.05 USD) - 2012/05/20 0:23:02 WET [2012/05/19 19:23:02 ET]
+Table 'Donati' 6-max
+Seat 1: bolita188 ($5.61 in chips) 
+Seat 2: k.Sleven ($14.72 in chips) 
+Seat 3: BaronMcCool ($5 in chips) 
+Seat 4: tursows ($5 in chips) 
+Seat 5: cristianms83 ($5.37 in chips) 
+Seat 6: marcob29 ($1.43 in chips) 
+k.Sleven: posts small blind $0.02
+BaronMcCool: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to BaronMcCool [7c 6s]
+tursows: folds 
+cristianms83: folds 
+marcob29: folds 
+bolita188: folds 
+k.Sleven: folds 
+Uncalled bet ($0.03) returned to BaronMcCool
+BaronMcCool collected $0.04 from pot
+BaronMcCool: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.04 | Rake $0 
+Seat 1: bolita188 folded before Flop (didn't bet)
+Seat 2: k.Sleven (small blind) folded before Flop
+Seat 3: BaronMcCool (big blind) collected ($0.04)
+Seat 4: tursows folded before Flop (didn't bet)
+Seat 5: cristianms83 folded before Flop (didn't bet)
+Seat 6: marcob29 folded before Flop (didn't bet)

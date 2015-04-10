@@ -1,0 +1,38 @@
+﻿PokerStars Game #69048641406:  Hold'em No Limit ($0.05/$0.10 USD) - 2011/10/16 12:34:35 WET [2011/10/16 7:34:35 ET]
+Table 'Boda V' 6-max Seat #6 is the button
+Seat 1: shpektorov ($20.53 in chips) 
+Seat 2: razy77razy ($9.23 in chips) 
+Seat 3: gorechin1986 ($4.15 in chips) 
+Seat 4: I dinner41 I ($11.30 in chips) 
+Seat 5: BaronMcCool ($10 in chips) 
+Seat 6: speed1D ($16.13 in chips) 
+shpektorov: posts small blind $0.05
+razy77razy: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to BaronMcCool [4h 3d]
+gorechin1986: raises $0.20 to $0.30
+I dinner41 I: calls $0.30
+BaronMcCool: folds 
+speed1D: folds 
+shpektorov: folds 
+razy77razy: folds 
+*** FLOP *** [2d 6s 6c]
+gorechin1986: bets $0.50
+I dinner41 I: raises $1.10 to $1.60
+gorechin1986: raises $2.25 to $3.85 and is all-in
+I dinner41 I: calls $2.25
+*** TURN *** [2d 6s 6c] [Kh]
+*** RIVER *** [2d 6s 6c Kh] [4d]
+*** SHOW DOWN ***
+gorechin1986: shows [Jh Js] (two pair, Jacks and Sixes)
+I dinner41 I: shows [9s 9c] (two pair, Nines and Sixes)
+gorechin1986 collected $8.03 from pot
+*** SUMMARY ***
+Total pot $8.45 | Rake $0.42 
+Board [2d 6s 6c Kh 4d]
+Seat 1: shpektorov (small blind) folded before Flop
+Seat 2: razy77razy (big blind) folded before Flop
+Seat 3: gorechin1986 showed [Jh Js] and won ($8.03) with two pair, Jacks and Sixes
+Seat 4: I dinner41 I showed [9s 9c] and lost with two pair, Nines and Sixes
+Seat 5: BaronMcCool folded before Flop (didn't bet)
+Seat 6: speed1D (button) folded before Flop (didn't bet)

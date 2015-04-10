@@ -1,0 +1,31 @@
+﻿PokerStars Game #80001166055:  Hold'em No Limit ($0.05/$0.10 USD) - 2012/05/06 15:03:52 WET [2012/05/06 10:03:52 ET]
+Table 'Tamariwa' 6-max
+Seat 1: Stebz80 ($5 in chips) 
+Seat 2: PoZ1TRoN ($11.07 in chips) 
+Seat 3: BaronMcCool ($12.97 in chips) 
+Seat 4: BoozerFC ($11.06 in chips) 
+Seat 5: Wilderer ($26.76 in chips) 
+Seat 6: Huggel68 ($5.27 in chips) 
+PoZ1TRoN: posts small blind $0.05
+BaronMcCool: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to BaronMcCool [Jc Jd]
+BoozerFC: folds 
+Wilderer: raises $0.20 to $0.30
+Huggel68: folds 
+Stebz80: folds 
+PoZ1TRoN: folds 
+BaronMcCool: raises $0.60 to $0.90
+Wilderer: raises $1.35 to $2.25
+BaronMcCool: folds 
+Uncalled bet ($1.35) returned to Wilderer
+Wilderer collected $1.85 from pot
+Wilderer: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.85 | Rake $0 
+Seat 1: Stebz80 folded before Flop (didn't bet)
+Seat 2: PoZ1TRoN (small blind) folded before Flop
+Seat 3: BaronMcCool (big blind) folded before Flop
+Seat 4: BoozerFC folded before Flop (didn't bet)
+Seat 5: Wilderer collected ($1.85)
+Seat 6: Huggel68 folded before Flop (didn't bet)

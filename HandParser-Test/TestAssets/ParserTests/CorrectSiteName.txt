@@ -1,0 +1,42 @@
+﻿PokerStars Game #69048563424:  Hold'em No Limit ($0.05/$0.10 USD) - 2011/10/16 12:32:16 WET [2011/10/16 7:32:16 ET]
+Table 'Boda V' 6-max Seat #3 is the button
+Seat 1: shpektorov ($19.88 in chips) 
+Seat 2: razy77razy ($9.09 in chips) 
+Seat 3: gorechin1986 ($4 in chips) 
+Seat 4: I dinner41 I ($11.35 in chips) 
+Seat 5: BaronMcCool ($10 in chips) 
+Seat 6: speed1D ($16.95 in chips) 
+I dinner41 I: posts small blind $0.05
+BaronMcCool: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to BaronMcCool [Qc 7d]
+speed1D: folds 
+shpektorov: folds 
+razy77razy: calls $0.10
+gorechin1986 has timed out
+gorechin1986: folds 
+I dinner41 I: folds 
+BaronMcCool: checks 
+*** FLOP *** [4s 6h Tc]
+BaronMcCool: checks 
+razy77razy: checks 
+*** TURN *** [4s 6h Tc] [Js]
+BaronMcCool: checks 
+razy77razy: checks 
+*** RIVER *** [4s 6h Tc Js] [8s]
+BaronMcCool: checks 
+razy77razy: checks 
+*** SHOW DOWN ***
+BaronMcCool: shows [Qc 7d] (high card Queen)
+razy77razy: shows [3d 3h] (a pair of Threes)
+razy77razy collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [4s 6h Tc Js 8s]
+Seat 1: shpektorov folded before Flop (didn't bet)
+Seat 2: razy77razy showed [3d 3h] and won ($0.24) with a pair of Threes
+Seat 3: gorechin1986 (button) folded before Flop (didn't bet)
+Seat 4: I dinner41 I (small blind) folded before Flop
+Seat 5: BaronMcCool (big blind) showed [Qc 7d] and lost with high card Queen
+Seat 6: speed1D folded before Flop (didn't bet)
+

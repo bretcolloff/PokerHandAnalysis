@@ -1,0 +1,31 @@
+﻿PokerStars Zoom Hand #79624172570:  Hold'em No Limit ($0.02/$0.05) - 2012/04/29 14:04:37 WET [2012/04/29 9:04:37 ET]
+Table 'Donati' 6-max
+Seat 1: drbull88 ($12.20 in chips) 
+Seat 2: BaronMcCool ($5.71 in chips) 
+Seat 3: thebozz993 ($5.92 in chips) 
+Seat 4: 13Sleejer ($16.45 in chips) 
+Seat 5: Halitov ($4.43 in chips) 
+Seat 6: GazAK ($4.65 in chips) 
+BaronMcCool: posts small blind $0.02
+thebozz993: posts big blind $0.05
+*** HOLE CARDS ***
+Dealt to BaronMcCool [6d 7h]
+13Sleejer: folds 
+Halitov: raises $0.10 to $0.15
+GazAK: raises $0.25 to $0.40
+drbull88: raises $0.70 to $1.10
+BaronMcCool: folds 
+thebozz993: folds 
+Halitov: folds 
+GazAK: folds 
+Uncalled bet ($0.70) returned to drbull88
+drbull88 collected $1.02 from pot
+drbull88: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.02 | Rake $0 
+Seat 1: drbull88 collected ($1.02)
+Seat 2: BaronMcCool (small blind) folded before Flop
+Seat 3: thebozz993 (big blind) folded before Flop
+Seat 4: 13Sleejer folded before Flop (didn't bet)
+Seat 5: Halitov folded before Flop
+Seat 6: GazAK folded before Flop

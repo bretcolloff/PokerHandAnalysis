@@ -1,0 +1,439 @@
+﻿PokerStars Game #69048469766:  Hold'em No Limit ($0.05/$0.10 USD) - 2011/10/16 12:29:29 WET [2011/10/16 7:29:29 ET]
+Table 'Boda V' 6-max Seat #2 is the button
+Seat 1: shpektorov ($22.84 in chips) 
+Seat 2: razy77razy ($6.84 in chips) 
+Seat 4: I dinner41 I ($11.50 in chips) 
+Seat 5: BaronMcCool ($10 in chips) 
+Seat 6: speed1D ($16.25 in chips) 
+gorechin1986 will be allowed to play after the button
+I dinner41 I: posts small blind $0.05
+BaronMcCool: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to BaronMcCool [9s Kc]
+speed1D: raises $0.20 to $0.30
+shpektorov: calls $0.30
+razy77razy: folds 
+I dinner41 I: folds 
+BaronMcCool: folds 
+*** FLOP *** [Jd Kh Qc]
+speed1D: bets $0.48
+shpektorov: calls $0.48
+*** TURN *** [Jd Kh Qc] [9h]
+speed1D: checks 
+shpektorov: checks 
+*** RIVER *** [Jd Kh Qc 9h] [3c]
+speed1D: checks 
+shpektorov: checks 
+*** SHOW DOWN ***
+speed1D: shows [Ks Qd] (two pair, Kings and Queens)
+shpektorov: mucks hand 
+speed1D collected $1.63 from pot
+*** SUMMARY ***
+Total pot $1.71 | Rake $0.08 
+Board [Jd Kh Qc 9h 3c]
+Seat 1: shpektorov mucked [Ac Jc]
+Seat 2: razy77razy (button) folded before Flop (didn't bet)
+Seat 4: I dinner41 I (small blind) folded before Flop
+Seat 5: BaronMcCool (big blind) folded before Flop
+Seat 6: speed1D showed [Ks Qd] and won ($1.63) with two pair, Kings and Queens
+
+
+
+PokerStars Game #69048487693:  Hold'em No Limit ($0.05/$0.10 USD) - 2011/10/16 12:30:01 WET [2011/10/16 7:30:01 ET]
+Table 'Boda V' 6-max Seat #4 is the button
+Seat 1: shpektorov ($22.06 in chips) 
+Seat 2: razy77razy ($6.84 in chips) 
+Seat 4: I dinner41 I ($11.45 in chips) 
+Seat 5: BaronMcCool ($10 in chips) 
+Seat 6: speed1D ($17.10 in chips) 
+BaronMcCool: posts small blind $0.05
+speed1D: posts big blind $0.10
+gorechin1986: sits out 
+*** HOLE CARDS ***
+Dealt to BaronMcCool [2d 8s]
+shpektorov: raises $0.30 to $0.40
+razy77razy: calls $0.40
+I dinner41 I: folds 
+BaronMcCool: folds 
+speed1D: folds 
+*** FLOP *** [3d 8h Kd]
+shpektorov: bets $0.68
+razy77razy: calls $0.68
+*** TURN *** [3d 8h Kd] [4h]
+shpektorov: bets $1.10
+razy77razy: calls $1.10
+*** RIVER *** [3d 8h Kd 4h] [Js]
+shpektorov: checks 
+razy77razy: checks 
+*** SHOW DOWN ***
+shpektorov: shows [As Kh] (a pair of Kings)
+razy77razy: shows [Kc Jh] (two pair, Kings and Jacks)
+razy77razy collected $4.29 from pot
+*** SUMMARY ***
+Total pot $4.51 | Rake $0.22 
+Board [3d 8h Kd 4h Js]
+Seat 1: shpektorov showed [As Kh] and lost with a pair of Kings
+Seat 2: razy77razy showed [Kc Jh] and won ($4.29) with two pair, Kings and Jacks
+Seat 4: I dinner41 I (button) folded before Flop (didn't bet)
+Seat 5: BaronMcCool (small blind) folded before Flop
+Seat 6: speed1D (big blind) folded before Flop
+
+
+
+PokerStars Game #69048519402:  Hold'em No Limit ($0.05/$0.10 USD) - 2011/10/16 12:30:57 WET [2011/10/16 7:30:57 ET]
+Table 'Boda V' 6-max Seat #5 is the button
+Seat 1: shpektorov ($19.88 in chips) 
+Seat 2: razy77razy ($8.95 in chips) 
+Seat 4: I dinner41 I ($11.45 in chips) 
+Seat 5: BaronMcCool ($10 in chips) 
+Seat 6: speed1D ($17 in chips) 
+speed1D: posts small blind $0.05
+shpektorov: posts big blind $0.10
+gorechin1986: sits out 
+*** HOLE CARDS ***
+Dealt to BaronMcCool [Kd 8s]
+razy77razy: calls $0.10
+I dinner41 I: folds 
+BaronMcCool: folds 
+speed1D: folds 
+shpektorov: checks 
+*** FLOP *** [8d 9d 5h]
+shpektorov: checks 
+razy77razy: checks 
+*** TURN *** [8d 9d 5h] [Ah]
+shpektorov: checks 
+razy77razy: checks 
+*** RIVER *** [8d 9d 5h Ah] [3h]
+shpektorov: checks 
+razy77razy: checks 
+*** SHOW DOWN ***
+shpektorov: shows [9s 4h] (a pair of Nines)
+razy77razy: shows [Ts 9c] (a pair of Nines - Ace+Ten kicker)
+razy77razy collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [8d 9d 5h Ah 3h]
+Seat 1: shpektorov (big blind) showed [9s 4h] and lost with a pair of Nines
+Seat 2: razy77razy showed [Ts 9c] and won ($0.24) with a pair of Nines
+Seat 4: I dinner41 I folded before Flop (didn't bet)
+Seat 5: BaronMcCool (button) folded before Flop (didn't bet)
+Seat 6: speed1D (small blind) folded before Flop
+
+
+
+PokerStars Game #69048535790:  Hold'em No Limit ($0.05/$0.10 USD) - 2011/10/16 12:31:27 WET [2011/10/16 7:31:27 ET]
+Table 'Boda V' 6-max Seat #6 is the button
+Seat 1: shpektorov ($19.78 in chips) 
+Seat 2: razy77razy ($9.09 in chips) 
+Seat 4: I dinner41 I ($11.45 in chips) 
+Seat 5: BaronMcCool ($10 in chips) 
+Seat 6: speed1D ($16.95 in chips) 
+shpektorov: posts small blind $0.05
+razy77razy: posts big blind $0.10
+gorechin1986: sits out 
+*** HOLE CARDS ***
+Dealt to BaronMcCool [9h Qc]
+I dinner41 I: folds 
+BaronMcCool: folds 
+speed1D: folds 
+shpektorov: folds 
+Uncalled bet ($0.05) returned to razy77razy
+razy77razy collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: shpektorov (small blind) folded before Flop
+Seat 2: razy77razy (big blind) collected ($0.10)
+Seat 4: I dinner41 I folded before Flop (didn't bet)
+Seat 5: BaronMcCool folded before Flop (didn't bet)
+Seat 6: speed1D (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #69048545477:  Hold'em No Limit ($0.05/$0.10 USD) - 2011/10/16 12:31:44 WET [2011/10/16 7:31:44 ET]
+Table 'Boda V' 6-max Seat #1 is the button
+Seat 1: shpektorov ($19.73 in chips) 
+Seat 2: razy77razy ($9.14 in chips) 
+Seat 3: gorechin1986 ($4 in chips) 
+Seat 4: I dinner41 I ($11.45 in chips) 
+Seat 5: BaronMcCool ($10 in chips) 
+Seat 6: speed1D ($16.95 in chips) 
+razy77razy: posts small blind $0.05
+gorechin1986: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to BaronMcCool [5h 7d]
+I dinner41 I: folds 
+BaronMcCool: folds 
+speed1D: folds 
+shpektorov: folds 
+razy77razy: folds 
+Uncalled bet ($0.05) returned to gorechin1986
+gorechin1986 collected $0.10 from pot
+*** SUMMARY ***
+Total pot $0.10 | Rake $0 
+Seat 1: shpektorov (button) folded before Flop (didn't bet)
+Seat 2: razy77razy (small blind) folded before Flop
+Seat 3: gorechin1986 (big blind) collected ($0.10)
+Seat 4: I dinner41 I folded before Flop (didn't bet)
+Seat 5: BaronMcCool folded before Flop (didn't bet)
+Seat 6: speed1D folded before Flop (didn't bet)
+
+
+
+PokerStars Game #69048551236:  Hold'em No Limit ($0.05/$0.10 USD) - 2011/10/16 12:31:54 WET [2011/10/16 7:31:54 ET]
+Table 'Boda V' 6-max Seat #2 is the button
+Seat 1: shpektorov ($19.73 in chips) 
+Seat 2: razy77razy ($9.09 in chips) 
+Seat 3: gorechin1986 ($4.05 in chips) 
+Seat 4: I dinner41 I ($11.45 in chips) 
+Seat 5: BaronMcCool ($10 in chips) 
+Seat 6: speed1D ($16.95 in chips) 
+gorechin1986: posts small blind $0.05
+I dinner41 I: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to BaronMcCool [6h 5h]
+BaronMcCool: folds 
+speed1D: folds 
+shpektorov: raises $0.20 to $0.30
+razy77razy: folds 
+gorechin1986: folds 
+I dinner41 I: folds 
+Uncalled bet ($0.20) returned to shpektorov
+shpektorov collected $0.25 from pot
+shpektorov: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: shpektorov collected ($0.25)
+Seat 2: razy77razy (button) folded before Flop (didn't bet)
+Seat 3: gorechin1986 (small blind) folded before Flop
+Seat 4: I dinner41 I (big blind) folded before Flop
+Seat 5: BaronMcCool folded before Flop (didn't bet)
+Seat 6: speed1D folded before Flop (didn't bet)
+
+
+
+PokerStars Game #69048563424:  Hold'em No Limit ($0.05/$0.10 USD) - 2011/10/16 12:32:16 WET [2011/10/16 7:32:16 ET]
+Table 'Boda V' 6-max Seat #3 is the button
+Seat 1: shpektorov ($19.88 in chips) 
+Seat 2: razy77razy ($9.09 in chips) 
+Seat 3: gorechin1986 ($4 in chips) 
+Seat 4: I dinner41 I ($11.35 in chips) 
+Seat 5: BaronMcCool ($10 in chips) 
+Seat 6: speed1D ($16.95 in chips) 
+I dinner41 I: posts small blind $0.05
+BaronMcCool: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to BaronMcCool [Qc 7d]
+speed1D: folds 
+shpektorov: folds 
+razy77razy: calls $0.10
+gorechin1986 has timed out
+gorechin1986: folds 
+I dinner41 I: folds 
+BaronMcCool: checks 
+*** FLOP *** [4s 6h Tc]
+BaronMcCool: checks 
+razy77razy: checks 
+*** TURN *** [4s 6h Tc] [Js]
+BaronMcCool: checks 
+razy77razy: checks 
+*** RIVER *** [4s 6h Tc Js] [8s]
+BaronMcCool: checks 
+razy77razy: checks 
+*** SHOW DOWN ***
+BaronMcCool: shows [Qc 7d] (high card Queen)
+razy77razy: shows [3d 3h] (a pair of Threes)
+razy77razy collected $0.24 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [4s 6h Tc Js 8s]
+Seat 1: shpektorov folded before Flop (didn't bet)
+Seat 2: razy77razy showed [3d 3h] and won ($0.24) with a pair of Threes
+Seat 3: gorechin1986 (button) folded before Flop (didn't bet)
+Seat 4: I dinner41 I (small blind) folded before Flop
+Seat 5: BaronMcCool (big blind) showed [Qc 7d] and lost with high card Queen
+Seat 6: speed1D folded before Flop (didn't bet)
+
+
+
+PokerStars Game #69048591598:  Hold'em No Limit ($0.05/$0.10 USD) - 2011/10/16 12:33:07 WET [2011/10/16 7:33:07 ET]
+Table 'Boda V' 6-max Seat #4 is the button
+Seat 1: shpektorov ($19.88 in chips) 
+Seat 2: razy77razy ($9.23 in chips) 
+Seat 3: gorechin1986 ($4 in chips) 
+Seat 4: I dinner41 I ($11.30 in chips) 
+Seat 5: BaronMcCool ($10 in chips) 
+Seat 6: speed1D ($16.95 in chips) 
+BaronMcCool: posts small blind $0.05
+speed1D: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to BaronMcCool [As 9s]
+shpektorov: folds 
+razy77razy: folds 
+gorechin1986: raises $0.20 to $0.30
+I dinner41 I: folds 
+BaronMcCool: folds 
+speed1D: folds 
+Uncalled bet ($0.20) returned to gorechin1986
+gorechin1986 collected $0.25 from pot
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: shpektorov folded before Flop (didn't bet)
+Seat 2: razy77razy folded before Flop (didn't bet)
+Seat 3: gorechin1986 collected ($0.25)
+Seat 4: I dinner41 I (button) folded before Flop (didn't bet)
+Seat 5: BaronMcCool (small blind) folded before Flop
+Seat 6: speed1D (big blind) folded before Flop
+
+
+
+PokerStars Game #69048614416:  Hold'em No Limit ($0.05/$0.10 USD) - 2011/10/16 12:33:47 WET [2011/10/16 7:33:47 ET]
+Table 'Boda V' 6-max Seat #5 is the button
+Seat 1: shpektorov ($19.88 in chips) 
+Seat 2: razy77razy ($9.23 in chips) 
+Seat 3: gorechin1986 ($4.15 in chips) 
+Seat 4: I dinner41 I ($11.30 in chips) 
+Seat 5: BaronMcCool ($10 in chips) 
+Seat 6: speed1D ($16.85 in chips) 
+speed1D: posts small blind $0.05
+shpektorov: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to BaronMcCool [Kd 7d]
+razy77razy: folds 
+gorechin1986: folds 
+I dinner41 I: folds 
+BaronMcCool: folds 
+speed1D: raises $0.20 to $0.30
+shpektorov: calls $0.20
+*** FLOP *** [3c 8d Ks]
+speed1D: checks 
+shpektorov: bets $0.42
+speed1D: calls $0.42
+*** TURN *** [3c 8d Ks] [As]
+speed1D: checks 
+shpektorov: checks 
+*** RIVER *** [3c 8d Ks As] [8s]
+speed1D: checks 
+shpektorov: bets $0.68
+speed1D: folds 
+Uncalled bet ($0.68) returned to shpektorov
+shpektorov collected $1.37 from pot
+shpektorov: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.44 | Rake $0.07 
+Board [3c 8d Ks As 8s]
+Seat 1: shpektorov (big blind) collected ($1.37)
+Seat 2: razy77razy folded before Flop (didn't bet)
+Seat 3: gorechin1986 folded before Flop (didn't bet)
+Seat 4: I dinner41 I folded before Flop (didn't bet)
+Seat 5: BaronMcCool (button) folded before Flop (didn't bet)
+Seat 6: speed1D (small blind) folded on the River
+
+
+
+PokerStars Game #69048641406:  Hold'em No Limit ($0.05/$0.10 USD) - 2011/10/16 12:34:35 WET [2011/10/16 7:34:35 ET]
+Table 'Boda V' 6-max Seat #6 is the button
+Seat 1: shpektorov ($20.53 in chips) 
+Seat 2: razy77razy ($9.23 in chips) 
+Seat 3: gorechin1986 ($4.15 in chips) 
+Seat 4: I dinner41 I ($11.30 in chips) 
+Seat 5: BaronMcCool ($10 in chips) 
+Seat 6: speed1D ($16.13 in chips) 
+shpektorov: posts small blind $0.05
+razy77razy: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to BaronMcCool [4h 3d]
+gorechin1986: raises $0.20 to $0.30
+I dinner41 I: calls $0.30
+BaronMcCool: folds 
+speed1D: folds 
+shpektorov: folds 
+razy77razy: folds 
+*** FLOP *** [2d 6s 6c]
+gorechin1986: bets $0.50
+I dinner41 I: raises $1.10 to $1.60
+gorechin1986: raises $2.25 to $3.85 and is all-in
+I dinner41 I: calls $2.25
+*** TURN *** [2d 6s 6c] [Kh]
+*** RIVER *** [2d 6s 6c Kh] [4d]
+*** SHOW DOWN ***
+gorechin1986: shows [Jh Js] (two pair, Jacks and Sixes)
+I dinner41 I: shows [9s 9c] (two pair, Nines and Sixes)
+gorechin1986 collected $8.03 from pot
+*** SUMMARY ***
+Total pot $8.45 | Rake $0.42 
+Board [2d 6s 6c Kh 4d]
+Seat 1: shpektorov (small blind) folded before Flop
+Seat 2: razy77razy (big blind) folded before Flop
+Seat 3: gorechin1986 showed [Jh Js] and won ($8.03) with two pair, Jacks and Sixes
+Seat 4: I dinner41 I showed [9s 9c] and lost with two pair, Nines and Sixes
+Seat 5: BaronMcCool folded before Flop (didn't bet)
+Seat 6: speed1D (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Game #69048668687:  Hold'em No Limit ($0.05/$0.10 USD) - 2011/10/16 12:35:24 WET [2011/10/16 7:35:24 ET]
+Table 'Boda V' 6-max Seat #1 is the button
+Seat 1: shpektorov ($20.48 in chips) 
+Seat 2: razy77razy ($9.13 in chips) 
+Seat 5: BaronMcCool ($10 in chips) 
+Seat 6: speed1D ($16.13 in chips) 
+razy77razy: posts small blind $0.05
+I dinner41 I: is sitting out 
+I dinner41 I leaves the table
+BaronMcCool: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to BaronMcCool [Qc Kd]
+gorechin1986 leaves the table
+speed1D: raises $0.20 to $0.30
+shpektorov: folds 
+razy77razy: folds 
+BaronMcCool: folds 
+Uncalled bet ($0.20) returned to speed1D
+speed1D collected $0.25 from pot
+speed1D: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0 
+Seat 1: shpektorov (button) folded before Flop (didn't bet)
+Seat 2: razy77razy (small blind) folded before Flop
+Seat 5: BaronMcCool (big blind) folded before Flop
+Seat 6: speed1D collected ($0.25)
+
+
+
+PokerStars Game #69048679484:  Hold'em No Limit ($0.05/$0.10 USD) - 2011/10/16 12:35:44 WET [2011/10/16 7:35:44 ET]
+Table 'Boda V' 6-max Seat #2 is the button
+Seat 1: shpektorov ($20.48 in chips) 
+Seat 2: razy77razy ($9.08 in chips) 
+Seat 5: BaronMcCool ($10 in chips) 
+BaronMcCool: posts small blind $0.05
+speed1D: is sitting out 
+shpektorov: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to BaronMcCool [9c Kh]
+razy77razy: calls $0.10
+speed1D leaves the table
+BaronMcCool: folds 
+shpektorov: checks 
+*** FLOP *** [5h 8h 2h]
+shpektorov: checks 
+razy77razy: checks 
+*** TURN *** [5h 8h 2h] [4s]
+shpektorov: checks 
+razy77razy: checks 
+*** RIVER *** [5h 8h 2h 4s] [Jc]
+shpektorov: bets $0.10
+razy77razy: folds 
+Uncalled bet ($0.10) returned to shpektorov
+shpektorov collected $0.24 from pot
+shpektorov: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [5h 8h 2h 4s Jc]
+Seat 1: shpektorov (big blind) collected ($0.24)
+Seat 2: razy77razy (button) folded on the River
+Seat 5: BaronMcCool (small blind) folded before Flop
+
+
+
+
+

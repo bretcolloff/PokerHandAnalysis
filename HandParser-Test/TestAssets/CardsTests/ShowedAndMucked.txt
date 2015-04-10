@@ -1,0 +1,39 @@
+﻿PokerStars Game #69048469766:  Hold'em No Limit ($0.05/$0.10 USD) - 2011/10/16 12:29:29 WET [2011/10/16 7:29:29 ET]
+Table 'Boda V' 6-max Seat #2 is the button
+Seat 1: shpektorov ($22.84 in chips) 
+Seat 2: razy77razy ($6.84 in chips) 
+Seat 4: I dinner41 I ($11.50 in chips) 
+Seat 5: BaronMcCool ($10 in chips) 
+Seat 6: speed1D ($16.25 in chips) 
+gorechin1986 will be allowed to play after the button
+I dinner41 I: posts small blind $0.05
+BaronMcCool: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to BaronMcCool [9s Kc]
+speed1D: raises $0.20 to $0.30
+shpektorov: calls $0.30
+razy77razy: folds 
+I dinner41 I: folds 
+BaronMcCool: folds 
+*** FLOP *** [Jd Kh Qc]
+speed1D: bets $0.48
+shpektorov: calls $0.48
+*** TURN *** [Jd Kh Qc] [9h]
+speed1D: checks 
+shpektorov: checks 
+*** RIVER *** [Jd Kh Qc 9h] [3c]
+speed1D: checks 
+shpektorov: checks 
+*** SHOW DOWN ***
+speed1D: shows [Ks Qd] (two pair, Kings and Queens)
+shpektorov: mucks hand 
+speed1D collected $1.63 from pot
+*** SUMMARY ***
+Total pot $1.71 | Rake $0.08 
+Board [Jd Kh Qc 9h 3c]
+Seat 1: shpektorov mucked [Ac Jc]
+Seat 2: razy77razy (button) folded before Flop (didn't bet)
+Seat 4: I dinner41 I (small blind) folded before Flop
+Seat 5: BaronMcCool (big blind) folded before Flop
+Seat 6: speed1D showed [Ks Qd] and won ($1.63) with two pair, Kings and Queens
+

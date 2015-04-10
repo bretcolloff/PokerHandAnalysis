@@ -1,0 +1,32 @@
+﻿PokerStars Game #69048679484:  Hold'em No Limit ($0.05/$0.10 USD) - 2011/10/16 12:35:44 WET [2011/10/16 7:35:44 ET]
+Table 'Boda V' 6-max Seat #2 is the button
+Seat 1: shpektorov ($20.48 in chips) 
+Seat 2: razy77razy ($9.08 in chips) 
+Seat 5: BaronMcCool ($10 in chips) 
+BaronMcCool: posts small blind $0.05
+speed1D: is sitting out 
+shpektorov: posts big blind $0.10
+*** HOLE CARDS ***
+Dealt to BaronMcCool [9c Kh]
+razy77razy: calls $0.10
+speed1D leaves the table
+BaronMcCool: folds 
+shpektorov: checks 
+*** FLOP *** [5h 8h 2h]
+shpektorov: checks 
+razy77razy: checks 
+*** TURN *** [5h 8h 2h] [4s]
+shpektorov: checks 
+razy77razy: checks 
+*** RIVER *** [5h 8h 2h 4s] [Jc]
+shpektorov: bets $0.10
+razy77razy: folds 
+Uncalled bet ($0.10) returned to shpektorov
+shpektorov collected $0.24 from pot
+shpektorov: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.25 | Rake $0.01 
+Board [5h 8h 2h 4s Jc]
+Seat 1: shpektorov (big blind) collected ($0.24)
+Seat 2: razy77razy (button) folded on the River
+Seat 5: BaronMcCool (small blind) folded before Flop
